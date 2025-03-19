@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cesjul
 - 🌱 I’m Computing Engineering Student at UNIVESP
-- 👀 I’m currently interested in Java, Python, AWS.
+- 👀 I’m currently interested in Java, Python, AWS and Machine Learning.
 - 📫 How to reach me: https://www.linkedin.com/in/julio-cs-carvalho/
 
 
