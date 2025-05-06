@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm cesjul</h1>
-<h3 align="center">A passionate engineering computing student</h3>
+<h3 align="center">A passionate computering engineering student</h3>
 
 - 🌱 I’m currently learning **Python, Java, AWS**
 
