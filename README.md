@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm cesjul</h1>
+<h1 align="center">Hi 👋, I'm Julio Cesar</h1>
 <h3 align="center">A passionate computering engineering student</h3>
 
 - 🌱 I’m currently learning **Python, Java, AWS**
@@ -12,3 +12,6 @@
 
 ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
+![Júlio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cesjul&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesjul&layout=compact&theme=radical)
