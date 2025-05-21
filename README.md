@@ -12,6 +12,6 @@
 
 ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
-<p align="left">![Júlio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cesjul&show_icons=true&theme=radical&count_private=true)</p>
+![Júlio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cesjul&show_icons=true&theme=radical&count_private=true)
 
-<p align="right">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesjul&layout=compact&theme=radical)</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesjul&layout=compact&theme=radical)
