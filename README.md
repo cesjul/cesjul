@@ -12,6 +12,6 @@
 
 ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
-![Júlio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cesjul&show_icons=true&theme=dark)
+![Júlio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cesjul&show_icons=true&theme=dark&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesjul&layout=compact&theme=dark)
