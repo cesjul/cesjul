@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Julio Cesar</h1>
 <h3 align="center">A passionate computering engineering student</h3>
 
-- 🌱 I’m currently learning **Python, Java, AWS**
+- 🌱 I’m currently learning **Kotlin, Java, AWS**
 
 - 📫 How to reach me **https://www.linkedin.com/in/julio-cs-carvalho/**
 
